@@ -1,1 +1,1 @@
-test of revert
+test of clone
